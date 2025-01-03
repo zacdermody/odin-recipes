@@ -1,0 +1,1 @@
+I am demonstrating my html skills which include understanding elements including h1-h6, p, img, and links using href.
